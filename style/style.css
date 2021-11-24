@@ -73,6 +73,14 @@ a {
     transition: 0.2s;
 }
 
+a p {
+    color: #0f151c;
+}
+
+footer:hover p {
+    color: #ed826d;
+}
+
 a:hover {
     margin: 0 15px;
 }
