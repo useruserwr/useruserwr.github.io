@@ -27,12 +27,12 @@ body {
 section {
     width: auto;
     height: calc(100vh - 200px);
+    min-height: 500px;
 }
 
 header, footer {
     width: auto;
     background: #141b24;
-    position: sticky;
     height: 98px; /*98px + 2px (border) = 100px*/
     transition: 0.2s;
 }
